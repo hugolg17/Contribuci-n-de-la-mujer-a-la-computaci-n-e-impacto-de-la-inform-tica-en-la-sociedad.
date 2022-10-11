@@ -4,6 +4,8 @@
 
 ## Contenidos
 
+- [Hedy Lamar](hedylamar.md)
+
 Hedy Lamar
 - Fue coinventora de la primera versión del espectro ensanchado que permitiría las comunicaciones inalámbricas.
 
