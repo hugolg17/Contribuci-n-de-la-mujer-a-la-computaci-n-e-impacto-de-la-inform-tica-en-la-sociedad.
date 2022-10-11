@@ -16,7 +16,7 @@
 
 ## Referencias
 * [Wikipedia](https://es.wikipedia.org/wiki/Grace_Murray_Hopper)
-* [CSIC](https://es.wikipedia.org/wiki/Grace_Murray_Hopper)
+* [CSIC](https://www.csic.es/es/actualidad-del-csic/la-investigadora-del-csic-montserrat-calleja-premio-jaume-i-en-nuevas)
 
 ## Licencia
 
