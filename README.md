@@ -8,12 +8,9 @@
 
 - [Radia Joy Perlman](radiajoy.md)
 
-Radia Joy Perlman
-- Es una creadora de software e ingeniería de redes y experta en seguridad, estuvo trabajando para Intel y consiguió más de 47 patentes.
+- [Joan Clarke](joanclarke.md)
 
-
-Joan Clarke
-- Fue una criptoanalista y numismática durante la segunda guerra mundial, trabajó en el proyecto Enigma, que desencriptó las comunicaciones secretas de la Alemania nazi.
+- [Grace Murray](gracemurray.md)
 
 
 - Grace Murray
