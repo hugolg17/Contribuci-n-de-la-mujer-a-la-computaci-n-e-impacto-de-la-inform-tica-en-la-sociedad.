@@ -6,9 +6,7 @@
 
 - [Hedy Lamar](hedylamar.md)
 
-Hedy Lamar
-- Fue coinventora de la primera versión del espectro ensanchado que permitiría las comunicaciones inalámbricas.
-
+- [Radia Joy Perlman](radiajoy.md)
 
 Radia Joy Perlman
 - Es una creadora de software e ingeniería de redes y experta en seguridad, estuvo trabajando para Intel y consiguió más de 47 patentes.
