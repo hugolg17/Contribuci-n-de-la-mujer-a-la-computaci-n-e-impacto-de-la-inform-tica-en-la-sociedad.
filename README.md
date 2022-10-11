@@ -19,7 +19,9 @@
 * [CSIC](https://es.wikipedia.org/wiki/Grace_Murray_Hopper)
 
 ## Licencia
-![image](licencia.png)
+
+![image](https://user-images.githubusercontent.com/115450529/195147196-457695e8-6384-4d0b-bb1f-55c11302cbf8.png)
+
 
 
 
