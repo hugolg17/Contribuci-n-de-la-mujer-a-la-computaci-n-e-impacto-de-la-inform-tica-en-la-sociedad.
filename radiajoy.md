@@ -1,3 +1,4 @@
+ Radia Perlman
 - Es una creadora de software e ingeniería de redes y experta en seguridad, estuvo trabajando para Intel y consiguió más de 47 patentes.
 - Famosa por ser la creadora del protocolo Spanning Tree (STP), mientras trabajó en Digital Equipment Corporation; el protocolo es fundamental para permitir la redundancia de rutas en las redes de área local (LAN).
 - Perlman es autora de un libro de texto sobre redes y coautora de otro sobre seguridad de redes. Tiene más de 100 patentes emitidas.
