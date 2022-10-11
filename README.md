@@ -18,6 +18,8 @@
 * [Wikipedia](https://es.wikipedia.org/wiki/Grace_Murray_Hopper)
 * [CSIC](https://es.wikipedia.org/wiki/Grace_Murray_Hopper)
 
+## Licencia
+![image](licencia.png)
 
 
 
